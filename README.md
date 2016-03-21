@@ -10,7 +10,7 @@
 Docker image for a Wordpress project having layout similar to [Bedrock] project. 
 The website root would be located in `/var/www/html/web`.
 
-Makes the following directories writable by `www-root` user:
+Makes the following directories writable by `www-data` user:
 
 * `/var/www/html/web/web/app/uploads` - Site uploads
 * `/var/www/html/web/web/app/cache` - [W3TC] page cache
