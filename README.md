@@ -14,7 +14,6 @@ Makes the following directories writable by `www-data` user:
 
 * `/var/www/html/web/web/app/uploads` - Site uploads
 * `/var/www/html/web/web/app/cache` - [W3TC] page cache
-* `/var/www/html/web/web/app/w3tc-config` - [W3TC] config files
 
 ---
 See also: https://roots.io 
